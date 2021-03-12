@@ -7,9 +7,10 @@ import (
 	"image"
 	_ "image/png"
 	"log"
+
 	"github.com/TuM0xA-S/gorocket/resources"
 
-	"github.com/hajimehoshi/ebiten"
+	"github.com/hajimehoshi/ebiten/v2"
 	"golang.org/x/image/font"
 	"golang.org/x/image/font/gofont/gomedium"
 	"golang.org/x/image/font/opentype"
